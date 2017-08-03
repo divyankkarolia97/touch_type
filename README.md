@@ -4,7 +4,7 @@
 
 A 60sec typing test and a leaderboard for the fastest typer.
 
-HOST LINK : <a href="# touch_type">touch_type</a>
+HOST LINK : <a href="http://touchtype.bitballoon.com/">touch_type</a>
 
 Note : Download the repository and fire up the "index.html" file.
 
