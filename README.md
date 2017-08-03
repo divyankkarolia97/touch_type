@@ -21,14 +21,21 @@ Note : Download the repository and fire up the "index.html" file.
      - jQuery
 # Screenshots:
 
-DESKTOP:
+LANDING PAGE:
+
+![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/LandingPage.PNG "Landing Page")
+
+TYPING TEST:
 
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Desktop%20).jpg "Screenshot(Desktop)")
+![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/TypingTest.PNG "Typing Test")
 
-MOBILE:
+TYPING RESULT:
 
+![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/TypingResult.PNG "Typing Result")
 
-![Alt text](https://github.com/divyankkarolia97/to_do_list/blob/master/SCREENSHOTS/Screenshot(%20Mobile%20).PNG "Screenshot(Desktop)")
+LEADERBOARD:
+
+![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/Leaderboard.PNG "LeaderBoard")
 
 
