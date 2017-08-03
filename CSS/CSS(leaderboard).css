@@ -1,0 +1,57 @@
+
+
+.container{
+    padding: 0px;
+}
+
+body {
+
+    background-image: url("../ASSETS/back2.jpg");
+    background-repeat: repeat;
+
+}
+.jumbotron {
+
+    background-image: url("../ASSETS/background.jpg");
+    padding-top: 55px;
+    padding-bottom: 55px;
+    margin: 0px;
+}
+
+.container{
+    background-color: #fcfeff;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+td {
+    font-family: 'Fredoka One', cursive;
+}
+p{
+    font-family: 'Esteban', serif;
+}
+
+li {
+    font-family: 'Fredoka One', cursive;
+}
+
+thead td{
+    font-size: 25px;
+    text-align: center;
+}
+.score{
+    text-align: center;
+}
+
+
+.nav{
+    background-image: url("../ASSETS/background.jpg");
+
+}
+
+.nav-link{
+    color: black;
+}

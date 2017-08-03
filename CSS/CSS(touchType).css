@@ -1,0 +1,40 @@
+
+body {
+
+    background-image: url("../ASSETS/back2.jpg");
+    background-repeat: repeat;
+
+}
+.jumbotron {
+    background-image: url("../ASSETS/background.jpg");
+    padding-bottom: 55px;
+    padding-top: 55px;
+    margin: 0px;
+}
+
+.container{
+    background-color: #fcfeff;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+p{
+    font-family: 'Esteban', serif;
+}
+
+li {
+    font-family: 'Fredoka One', cursive;
+}
+
+
+.nav{
+    background-image: url("../ASSETS/background.jpg");
+
+}
+
+.nav-link{
+    color: black;
+}

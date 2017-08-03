@@ -1,0 +1,55 @@
+h1 {
+    font-size: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+
+p{
+    margin: 0px;
+    padding-top: 0px;
+    font-size: 90px;
+    font-family: 'Fredoka One', cursive;
+
+}
+
+body {
+    background-image: url("../ASSETS/back2.jpg");
+    background-repeat: repeat;
+
+}
+.jumbotron {
+
+    background-image: url("../ASSETS/background.jpg");
+    padding-top: 55px;
+    padding-bottom: 55px;
+    margin: 0px;
+}
+
+
+li {
+    font-family: 'Fredoka One', cursive;
+}
+
+.nav{
+    background-image: url("../ASSETS/background.jpg");
+
+}
+
+.nav-link{
+    color: black;
+}
+.heading{
+    animation-name: zoom;
+    animation-duration: 5s;
+}
+
+
+@keyframes zoom {
+    from{
+        font-size: 45px;
+         }
+    to{
+        90px;
+    }
+}
+

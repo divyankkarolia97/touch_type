@@ -1,0 +1,88 @@
+
+body {
+
+    background-image: url("../ASSETS/back2.jpg");
+    background-repeat: repeat;
+
+}
+
+
+h1 {
+    font-size: 45px;
+    font-family: 'Fredoka One', cursive;
+}
+
+li {
+    font-family: 'Fredoka One', cursive;
+}
+
+#timer {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#text {
+    text-align: end;
+}
+
+.sampleDone {
+    padding: 0px;
+    text-align: right;
+    color: darkgrey;
+
+}
+
+.sample {
+
+    padding: 0px;
+    font-size: 35px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.jumbotron {
+    background-image: url("../ASSETS/background.jpg");
+    padding-top: 55px;
+    padding-bottom: 55px;
+    margin: 0px;
+}
+
+.nav{
+    background-image: url("../ASSETS/background.jpg");
+
+}
+
+.nav-link{
+    color: black;
+}
+
+.cursor {
+    background-color: darkgrey;
+    padding: 2px;
+}
+
+.header {
+    font-family: 'Glegoo', serif;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.result {
+    font-size: 200px;
+    font-family: 'Fredoka One', cursive;
+    font-weight: 800;
+}
+
+.units {
+    font-size: 60px;
+    font-weight: 400px;
+}
+
+
+
+
+
+
+
+
+
