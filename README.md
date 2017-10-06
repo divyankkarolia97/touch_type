@@ -7,7 +7,7 @@ HOST LINK : <a href="http://touchtype.bitballoon.com/">touch_type</a>
 
 Note : Download the repository and fire up the "index.html" file.
 
-Hint : Run the app on a local server because the app it makes an ajax request for a .json file
+Hint : In the Chrome, run the app on a local server because the app makes an ajax request for a .json file
 
 Share with your friends and see who is the "best" typist
 
