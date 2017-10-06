@@ -1,41 +1,37 @@
  
-# touch_type
+# Touch Type #
 
 
-A 60sec typing test and a leaderboard for the fastest typer.
+ Touch type offers a 60-second typing test and a leaderboard of the fastest typers.
 
-HOST LINK : <a href="http://touchtype.bitballoon.com/">touch_type</a>
+Find demo here: [Touch Type](http://touchtype.bitballoon.com)
 
-Note : Download the repository and fire up the "index.html" file.
+## How To ##
+Download/clone this repository and fire up the "index.html" file.
 
-(App is made with ES6 standards and hence is supported on all modern browsers. Tested_on: Chrome, Firefox, Edge)
+Note: This app is made with ES6 standards and hence is supported on all modern browsers. It has been tested on: Chrome, Firefox and Edge.
 
+## Technologies Used : ##
+     - HTML5.
+     - CSS.
+     - Bootstrap.
+     - JS. (ES6)
+     - font-awesome. (Icons)
+     - jQuery.
+## Screenshots: ##
 
-# Techonologies Used :
-
-     - HTML 5
-     - CSS
-     - Bootstrap
-     - Js (ES6)
-     - font-awesome (ICONS)
-     - jQuery
-# Screenshots:
-
-LANDING PAGE:
+**LANDING PAGE:**
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/LandingPage.PNG "Landing Page")
 
-TYPING TEST:
-
+**TYPING TEST:**
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/TypingTest.PNG "Typing Test")
 
-TYPING RESULT:
+**TYPING RESULT:**
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/TypingResult.PNG "Typing Result")
 
-LEADERBOARD:
+**LEADERBOARD:**
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/Leaderboard.PNG "LeaderBoard")
-
-
