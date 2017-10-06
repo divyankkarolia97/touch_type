@@ -1,8 +1,7 @@
  
 # touch_type
 
-
-A 60sec typing test and a leaderboard for the fastest typer.
+A 60 second typing test and a leaderboard for the fastest typer.
 
 HOST LINK : <a href="http://touchtype.bitballoon.com/">touch_type</a>
 
@@ -19,6 +18,7 @@ Note : Download the repository and fire up the "index.html" file.
      - Js (ES6)
      - font-awesome (ICONS)
      - jQuery
+     
 # Screenshots:
 
 LANDING PAGE:
@@ -30,9 +30,11 @@ TYPING TEST:
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/TypingTest.PNG "Typing Test")
 
+
 TYPING RESULT:
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/TypingResult.PNG "Typing Result")
+
 
 LEADERBOARD:
 
