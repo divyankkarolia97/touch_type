@@ -4,7 +4,7 @@
 
  Touch type offers a 60-second typing test and a leaderboard of the fastest typers.
 
-Find demo here: [Touch Type](http://touchtype.bitballoon.com)
+[Find demo here](http://touchtype.bitballoon.com)
 
 ## How To ##
 Download/clone this repository and fire up the "index.html" file.
