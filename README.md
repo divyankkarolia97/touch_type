@@ -1,5 +1,4 @@
- 
-# touch_type
+ # touch_type
 
 
 A 60sec typing test and a leaderboard for the fastest typer.
@@ -7,6 +6,9 @@ A 60sec typing test and a leaderboard for the fastest typer.
 HOST LINK : <a href="http://touchtype.bitballoon.com/">touch_type</a>
 
 Note : Download the repository and fire up the "index.html" file.
+Hint : Run the app on a local server because the app it makes an ajax request for a .json file
+
+Share with your friends and see who is the "best" typist
 
 (App is made with ES6 standards and hence is supported on all modern browsers. Tested_on: Chrome, Firefox, Edge)
 
@@ -19,6 +21,11 @@ Note : Download the repository and fire up the "index.html" file.
      - Js (ES6)
      - font-awesome (ICONS)
      - jQuery
+     
+# Adding more Texts
+
+You can add more sentences to the app by going to the package.json file and adding a new text.
+
 # Screenshots:
 
 LANDING PAGE:
@@ -37,5 +44,3 @@ TYPING RESULT:
 LEADERBOARD:
 
 ![Alt text](https://github.com/divyankkarolia97/touch_type/blob/master/SCREENSHOTS/Leaderboard.PNG "LeaderBoard")
-
-
