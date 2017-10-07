@@ -4,21 +4,33 @@
 
  Touch type offers a 60-second typing test and a leaderboard of the fastest typers.
 
+
 [Find demo here](http://touchtype.bitballoon.com)
 
 ## How To ##
 Download/clone this repository and fire up the "index.html" file.
 
+
 Note: This app is made with ES6 standards and hence is supported on all modern browsers. It has been tested on: Chrome, Firefox and Edge.
 
-## Technologies Used : ##
-     - HTML5.
-     - CSS.
-     - Bootstrap.
-     - JS. (ES6)
-     - font-awesome. (Icons)
-     - jQuery.
-## Screenshots: ##
+Hint : In the Chrome, run the app on a local server because the app makes an ajax request for a .json file
+
+Share with your friends and see who is the "best" typist.
+
+# Techonologies Used :
+
+     - HTML 5
+     - CSS
+     - Bootstrap
+     - Js (ES6)
+     - font-awesome (ICONS)
+     - jQuery
+     
+# Adding more Texts
+
+You can add more sentences to the app by going to the package.json file and adding a new text.
+
+# Screenshots:
 
 **LANDING PAGE:**
 
